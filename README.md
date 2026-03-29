@@ -43,7 +43,7 @@ access-surface/
 │   ├── style.min.css
 │   └── app.min.js
 ├── assets/
-│   └── screenshot.svg
+│   └── screenshot.png
 ├── LICENSE
 └── README.md
 ```
