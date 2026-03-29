@@ -30,7 +30,7 @@ Instead of exposing your real login endpoint, this page provides a **monitored s
 
 > Replace the placeholder with a real screenshot after deployment.
 
-![Access Surface Screenshot](assets/screenshot.svg)
+![Access Surface Screenshot](assets/screenshot.png)
 
 ---
 
